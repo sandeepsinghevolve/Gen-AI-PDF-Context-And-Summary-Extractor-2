@@ -1,0 +1,7 @@
+langchain
+openai==0.28
+streamlit
+tiktoken
+unstructured
+PyPDF2
+python-dotenv
